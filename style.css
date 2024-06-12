@@ -1,0 +1,283 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #014E56;
+    width: 100%;
+    box-shadow: 0 0 8px grey;
+    height: 39rem;
+}
+
+header nav {
+    display: flex;
+    max-width: 1350px;
+    margin: auto;
+    justify-content: space-between;
+
+}
+
+header nav .logo {
+    font-size: 32px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header nav ul {
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    gap: 1rem;
+    list-style: none;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+
+
+.con {
+    border-radius: 10px;
+    color: white;
+    align-items: center;
+    margin-top: 50px;
+    padding: 10px 15px 10px 15px;
+    background: none;
+    border: 1px solid white;
+
+
+}
+
+.card-wrapper {
+    height: 16rem;
+    display: flex;
+    margin: 5rem auto;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1px;
+
+}
+
+.card-wrapper .card {
+    display: flex;
+    width: 34rem;
+    margin: auto;
+
+
+}
+
+.card p {
+    color: white;
+}
+
+.card h1 {
+    font-size: 5rem;
+    color: white;
+}
+
+.gro {
+    height: 10rem;
+    left: 100px;
+    margin-top: 20px;
+
+
+}
+
+.gru {
+    margin-top: 476px;
+    right: 917px;
+}
+
+section {
+    background-color: #012F34;
+    height: 32rem;
+}
+
+.section-wrap {
+    display: flex;
+    margin: auto;
+    justify-content: space-around;
+    gap: 5rem;
+}
+
+.section-cards {
+    width: 25rem;
+    height: 11rem;
+    margin: auto;
+    padding: 1rem;
+    position: relative;
+    color: white;
+
+
+}
+
+.gro {
+    width: 200px;
+    height: 244px;
+    margin-top: 110px;
+
+}
+
+.ex {
+    color: #F67E7E;
+}
+
+.talant {
+    color: #F67E7E;
+    text-decoration: none;
+
+}
+
+.section-card {
+    display: flex;
+    justify-content: space-around;
+    margin: 10rem auto;
+    width: 63rem;
+    align-items: center;
+    position: absolute;
+    color: white;
+    left: 19rem;
+    gap: 1rem;
+
+
+}
+
+main {
+    background-color: #004047;
+    width: 100%;
+    height: 48rem;
+}
+
+.main-wrap {
+    height: 16rem;
+}
+
+.second {
+    color: white;
+    margin: auto;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 35rem;
+}
+
+.suc {
+    color: #1e9eadba;
+}
+
+.second-wrapper {
+    height: 32rem;
+    display: flex;
+    margin: auto;
+}
+
+.second-divs {
+    width: 16rem;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem auto;
+
+
+}
+
+.ka {
+    color: #55b5c0;
+    margin: 0.5rem;
+}
+
+.pr {
+    margin: 0.5rem;
+}
+
+.re {
+    width: 14rem;
+    height: 10rem;
+    margin-top: 15.5rem;
+}
+
+.end-wrap {
+    background-color: #F67E7E;
+    height: 14rem;
+    text-align: center;
+    margin: auto;
+    display: flex;
+
+}
+
+.end {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    color: #012F34;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.up {
+    margin-top: 5rem;
+
+}
+
+.con {
+
+    padding: 1rem 2rem 1rem 2rem;
+    border-radius: 2.5rem;
+    text-align: center;
+    color: #000;
+    border: 1px solid black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 5rem;
+}
+
+footer {
+    background-color: #002529;
+    width: 100%;
+    min-height: 14rem;
+    padding: 2rem 5rem 2rem 6rem;
+}
+
+
+footer .footer__wrapper {
+    max-width: 1350px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logos {
+    margin-top: 3rem;
+    color: white;
+
+}
+
+.fo {
+    display: inline-block;
+    justify-content: space-between;
+    margin-top: 2rem;
+    color: white;
+    margin: 0.5rem;
+
+
+}
+
+.hil {
+    width: 8rem;
+    align-items: center;
+    color: white;
+    margin-top: 2rem;
+
+}
+
+
+    
+
+
+
+
